@@ -1,0 +1,16 @@
+doodle
+dog
+1
+D:\Eclipse\PetShop\image_1.jpg
+kapler
+cat
+4
+D:\Eclipse\PetShop\image_2.jpg
+jack
+cat
+1
+D:\Eclipse\PetShop\image_3.jpg
+kingson
+cat
+0
+D:\Eclipse\PetShop\image_4.jpg
